@@ -150,4 +150,3 @@ MIT. See [LICENSE](LICENSE).
 
 - Paralives Studio for shipping a moddable game with a transparent data format
 - The base game files at `Main.mod/Settings/` for being the only documentation of the format
-- Mod #22 [ParalivesModTool](https://www.nexusmods.com/paralives/mods/22) on Nexus — orthogonal scope (texture/mesh swap) but proved that non-content tools have a home in the Paralives modding ecosystem
